@@ -1,0 +1,30 @@
+{
+  "name": "thorium",
+  "version": "1.0.0",
+  "description": "Backend cohort Feb 2022 - May 2022\r # Thoriumc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sabihak89/thorium.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sabihak89/thorium/issues"
+  },
+  "homepage": "https://github.com/sabihak89/thorium#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongoose": "^6.2.9",
+    "node-module": "^2.0.0",
+    "redis": "^3.1.2",
+    "short-id": "^0.1.0-1",
+    "shortid": "^2.2.16",
+    "util": "^0.12.4",
+    "valid-url": "^1.0.9"
+  }
+}
