@@ -1,4 +1,3 @@
-# thorium
 
 ## Phase I
 
